@@ -26,3 +26,4 @@ def read_csv(input_file):
     for line in content:
         result.append(line.strip())
     return result
+
